@@ -1,0 +1,170 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(182, 11, 11);
+}
+#faixa{
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+}   
+#labeltitulo{
+    font-family: 'Gayathri', sans-serif;
+    font-size: 20px;
+}
+
+#btnadding{
+    text-decoration: none;
+    border-radius: 70px;
+    background-color: white;
+    width: 300px;
+    height: 30px;
+    font-family: 'Gayathri', sans-serif;
+    font-size: 15px;
+}
+
+#title{
+    font-family: 'Gayathri', sans-serif;
+    color: white;
+}
+#logo {
+    width: 55px;
+    padding: 10px;
+}
+
+main{
+    display: flex;
+    background-color: rgb(182, 11, 11);
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    height: 73vh;
+}
+
+
+#sec2{
+    width: 47vw;
+    height: 75vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    background-color: white;
+    flex-direction: column;
+}
+
+#sec3{
+    margin-top: 23px;
+    margin-left: 10px;
+    display: flex;
+    border: black 2px solid;
+    width: 45vw;
+    height: 75vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    border-radius: 70px;
+    background-color: white;
+}
+
+
+
+form{
+    margin-top: 23px;
+    margin-left: 10px;
+    display: flex;
+    border: black 2px solid;
+    width: 45vw;
+    height: 75vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    border-radius: 70px;
+    background-color: white;
+}
+
+.inputingeqtd{
+    font-family: 'Gayathri', sans-serif;
+    color: white;
+    font-size: 16px;
+}
+
+
+#salvararquivotxt{
+    
+}
+
+#iingredientes{
+    overflow: auto;
+    width: 40vw;
+    height: 50vh;
+    border: black solid 2px;
+    border-radius: 70px;
+    text-align: center;
+    background-color: rgb(182, 11, 11);
+
+}
+
+#titleingre{
+    font-family: 'Gayathri', sans-serif;
+    color: white;
+    font-size: 27px;
+}
+
+#titleprep{
+    font-family: 'Gayathri', sans-serif;
+    color: black;
+    font-size: 22px;
+}
+
+footer{
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(182, 11, 11);
+}
+
+#passos{
+    overflow: auto;
+    width: 40vw;
+    height: 50vh;
+    border: black solid 2px;
+    border-radius: 70px;
+    text-align: center;
+    background-color: rgb(182, 11, 11);
+}
+
+#passosprep{
+    font-family: 'Gayathri', sans-serif;
+    color: white;
+    font-size: 22px; 
+}
+
+#addmodprep{
+    text-decoration: none;
+    border-radius: 70px;
+    background-color: white;
+    width: 350px;
+    height: 25px;
+    font-family: 'Gayathri', sans-serif;
+    font-size: 15px;
+}
+
+#labelarquivotxt{
+    color: black;
+    font-family: 'Gayathri', sans-serif;
+    font-size: 18px;
+}
+#salvar{
+    font-family: 'Gayathri', sans-serif;
+    font-size: 15px;
+    background-color: white;
+
+}
+
